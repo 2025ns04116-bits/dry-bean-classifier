@@ -43,9 +43,9 @@ The classes are moderately imbalanced (Dermason is about 7× larger than Bombay)
 - The 20% test split is saved as `test_data.csv` for use in the Streamlit app
 
 ## c. GitHub Repository Link
-TODO: https://github.com/<your-username>/dry-bean-classifier
+https://github.com/2025ns04116-bits/dry-bean-classifier
 
-**Live Streamlit App:** TODO: https://<your-app>.streamlit.app
+**Live Streamlit App:** https://mblomozkpioih5guvh6aqd.streamlit.app/
 
 ## d. Models Used
 1. Logistic Regression (`max_iter=2000`)
